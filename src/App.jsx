@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './Header'
+import Bodycontent from './Bodycontent'
 function App() {
 // this public folder is used as the storage of images 
 
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
         <Header/>
+        <Bodycontent />
     </>
   )
 }
