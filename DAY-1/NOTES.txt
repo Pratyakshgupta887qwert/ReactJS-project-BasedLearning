@@ -1,1 +1,8 @@
 Admin You tube : Great Ease Academy
+
+HTML -> CSS -> JS
+
+FONTEND : react , vue , Angular
+BACKEND : Node , express
+
+JAVASCRIPT runs in Browser and it should have JAVASCRIPT ENGINE to run it.
